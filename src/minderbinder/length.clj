@@ -9,6 +9,7 @@
   ::cm 1/100
   ::mm [1/10 ::cm]
   ::nm [1/1000 ::mm]
+  ::angstrom [1/10 ::nm]
 
   ::yard 9144/10000
   ::foot [1/3 ::yard]
